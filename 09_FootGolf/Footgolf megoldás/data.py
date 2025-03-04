@@ -5,5 +5,3 @@ class jatekos:
         self.kategoria = adatok[1]
         self.egyesulet = adatok[2]
         self.pontok = [int(adatok[i]) for i in range(3, 11)] 
-
-        kjh
